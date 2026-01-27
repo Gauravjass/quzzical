@@ -1,0 +1,20 @@
+{
+  "name": "quzzical",
+  "description": "This is a quiz app where user can play quiz to test their knowledge.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html-entities": "^2.6.0",
+    "react": "^19.1.1",
+    "react-confetti": "^6.4.0",
+    "react-dom": "^19.1.1",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}
